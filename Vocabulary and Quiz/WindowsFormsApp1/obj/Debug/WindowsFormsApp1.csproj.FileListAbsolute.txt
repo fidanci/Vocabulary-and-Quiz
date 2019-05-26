@@ -1,0 +1,40 @@
+C:\Users\furkan-elif\Desktop\Arapça Bilgi Yarışması\Arapça Bilgi Yarışması\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\furkan-elif\Desktop\Arapça Bilgi Yarışması\Arapça Bilgi Yarışması\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\furkan-elif\Desktop\Arapça Bilgi Yarışması\Arapça Bilgi Yarışması\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\furkan-elif\Desktop\Arapça Bilgi Yarışması\Arapça Bilgi Yarışması\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\furkan-elif\Desktop\Arapça Bilgi Yarışması\Arapça Bilgi Yarışması\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\furkan-elif\Desktop\Arapça Bilgi Yarışması\Arapça Bilgi Yarışması\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\furkan-elif\Desktop\Arapça Bilgi Yarışması\Arapça Bilgi Yarışması\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\furkan-elif\Desktop\Arapça Bilgi Yarışması\Arapça Bilgi Yarışması\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\furkan-elif\Desktop\Arapça Bilgi Yarışması\Arapça Bilgi Yarışması\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AcilisEkrani.resources
+C:\Users\furkan-elif\Desktop\Arapça Bilgi Yarışması\Arapça Bilgi Yarışması\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dilsec.resources
+C:\Users\furkan-elif\Desktop\Arapça Bilgi Yarışması\Arapça Bilgi Yarışması\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BilgiYarismasi.resources
+C:\Users\furkan-elif\Desktop\Arapça Bilgi Yarışması\Arapça Bilgi Yarışması\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KelimeYarismasi.resources
+C:\Users\Furkan\Desktop\Arapça Bilgi Yarışması\Arapça Bilgi Yarışması\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Furkan\Desktop\Arapça Bilgi Yarışması\Arapça Bilgi Yarışması\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Furkan\Desktop\Arapça Bilgi Yarışması\Arapça Bilgi Yarışması\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Furkan\Desktop\Arapça Bilgi Yarışması\Arapça Bilgi Yarışması\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Furkan\Desktop\Arapça Bilgi Yarışması\Arapça Bilgi Yarışması\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Furkan\Desktop\Arapça Bilgi Yarışması\Arapça Bilgi Yarışması\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AcilisEkrani.resources
+C:\Users\Furkan\Desktop\Arapça Bilgi Yarışması\Arapça Bilgi Yarışması\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dilsec.resources
+C:\Users\Furkan\Desktop\Arapça Bilgi Yarışması\Arapça Bilgi Yarışması\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BilgiYarismasi.resources
+C:\Users\Furkan\Desktop\Arapça Bilgi Yarışması\Arapça Bilgi Yarışması\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KelimeYarismasi.resources
+C:\Users\Furkan\Desktop\Arapça Bilgi Yarışması\Arapça Bilgi Yarışması\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Furkan\Desktop\Arapça Bilgi Yarışması\Arapça Bilgi Yarışması\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Furkan\Desktop\Arapça Bilgi Yarışması\Arapça Bilgi Yarışması\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.kelimeYarismasi1.resources
+C:\Users\Furkan\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Furkan\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Furkan\Desktop\ArapçaKelimeVeBilgiYarışması\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Furkan\Desktop\ArapçaKelimeVeBilgiYarışması\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Furkan\Desktop\ArapçaKelimeVeBilgiYarışması\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Furkan\Desktop\ArapçaKelimeVeBilgiYarışması\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AcilisEkrani.resources
+C:\Users\Furkan\Desktop\ArapçaKelimeVeBilgiYarışması\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dilsec.resources
+C:\Users\Furkan\Desktop\ArapçaKelimeVeBilgiYarışması\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BilgiYarismasi.resources
+C:\Users\Furkan\Desktop\ArapçaKelimeVeBilgiYarışması\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.KelimeYarismasi.resources
+C:\Users\Furkan\Desktop\ArapçaKelimeVeBilgiYarışması\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.kelimeYarismasi1.resources
+C:\Users\Furkan\Desktop\ArapçaKelimeVeBilgiYarışması\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Furkan\Desktop\ArapçaKelimeVeBilgiYarışması\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Furkan\Desktop\ArapçaKelimeVeBilgiYarışması\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Furkan\Desktop\ArapçaKelimeVeBilgiYarışması\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Furkan\Desktop\ArapçaKelimeVeBilgiYarışması - Kopya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Furkan\Desktop\ArapçaKelimeVeBilgiYarışması - Kopya\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
